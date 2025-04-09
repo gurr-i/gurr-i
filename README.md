@@ -35,10 +35,7 @@
 ### 📊 **GitHub Stats**  
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api?username=gurr-i&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&hide_border=true" width="400" />
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurr-i&theme=dracula&hide_border=true" width="400" height="400" />
 </p>
-
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurr-i&layout=donut&theme=dracula&hide_border=false" width="400" />
 </p>

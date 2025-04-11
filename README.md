@@ -154,19 +154,20 @@ Explore my standout projects:
 
 - **[Node.js Role-Based Auth with Sequelize](https://github.com/gurr-i/nodejs-app-rolebased-auth-sequelize)**  
   🔒 A secure role-based authentication system built with Node.js, MySQL, and Sequelize.  
-  ⭐ Stars: *dynamic count if available* | 🛠️ Tech: Node.js, Sequelize, JWT  
+  ⭐ Stars: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gurr-i/nodejs-app-rolebased-auth-sequelize">
+ | 🛠️ Tech: Node.js, Sequelize, JWT  
 
 - **[Save Restricted Content Bot](https://github.com/gurr-i/Save-Restricted-Content-Bot-Repo-normal)**  
   🤖 A Telegram bot for saving restricted content with custom thumbnail support.  
-  ⭐ Stars: *dynamic count if available* | 🛠️ Tech: Python, Telegram API  
+  ⭐ Stars: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gurr-i/Save-Restricted-Content-Bot-Repo-normal"> | 🛠️ Tech: Python, Telegram API  
 
 - **[Custom Console Logger](https://github.com/gurr-i/custom-console-logger-function)**  
   🖥️ A handy JavaScript utility to log variables with their names for easier debugging.  
-  ⭐ Stars: *dynamic count if available* | 🛠️ Tech: JavaScript  
+  ⭐ Stars: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gurr-i/custom-console-logger-function"> | 🛠️ Tech: JavaScript  
 
 - **[React.js Role-Based Auth API](https://github.com/gurr-i/Reactjs-app-rolebased-auth-api)**  
   🌐 A React.js app with role-based authentication integrated with a backend API.  
-  ⭐ Stars: *dynamic count if available* | 🛠️ Tech: React.js, Node.js  
+  ⭐ Stars: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gurr-i/Reactjs-app-rolebased-auth-api">| 🛠️ Tech: React.js, Node.js  
 
 ---
 

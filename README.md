@@ -128,8 +128,8 @@
 <!--   <a href="https://www.instagram.com/i_gurri/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a> -->
-  <a href="https://portfolio.to/gurr-i">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" />
+  <a href="https://gurr-i.github.io/new-portfolio/">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="https://gurr-i.github.io/new-portfolio/" />
   </a>
   <a href="mailto:singh5134957@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />

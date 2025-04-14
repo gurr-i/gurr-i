@@ -16,7 +16,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gurr-i">
   
 **Full-Stack Web Developer** | **Competitive Programmer** | **IIT Roorkee '23**  
-📍India | 🕒 UTC +05:30 | 🌐 [Portfolio Website](https://gurveer.dev)  
+📍India | 🕒 UTC +05:30 | 🌐 [Portfolio](https://gurr-i.github.io/new-portfolio/)  
 
 ---
 

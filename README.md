@@ -78,7 +78,7 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
   <details>
     <summary>See more</summary>
     <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
-    <a href="#"><img src="assets/typing.svg"></a>
+        <a href="#"><img src="assets/download.svg" width="250"></a>
 
 <details open>
   <summary>GitHub Stats</summary>

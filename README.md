@@ -35,14 +35,14 @@ height="45" width="45"/> I'm Gurveer</h1> -->
 <!-- 👁️ GitHub Profile View Counter -->
 <!-- =============================== -->
 <p align="center">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=gurr-i&style=flat-square&color=22CCB2" />
+  <img width="150px" src="https://komarev.com/ghpvc/?username=gurveeer&style=flat-square&color=22CCB2" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 10px #22CCB2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
 </p>
 
 <!-- =============================== -->
 <!-- 🖼️ Header Image Banner -->
 <!-- =============================== -->
 <p align="center">
-  <img src="./assets//header_.png" width="100%" />
+  <img src="./assets//header_.png" width="100%" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.filter='brightness(1.1) contrast(1.1)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1) contrast(1)';" />
 </p>
 
 <!-- ✨ Divider -->
@@ -129,9 +129,9 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurr-i&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurr-i&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurr-i&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gurveeer&show_icons=true&theme=tokyonight" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05) rotate(1deg)'; this.style.filter='drop-shadow(0 8px 20px rgba(0, 245, 212, 0.3))';" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none';" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurveeer&theme=tokyonight" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05) rotate(-1deg)'; this.style.filter='drop-shadow(0 8px 20px rgba(255, 255, 255, 0.3))';" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none';" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurveeer&layout=compact&theme=tokyonight" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05) rotate(1deg)'; this.style.filter='drop-shadow(0 8px 20px rgba(255, 0, 245, 0.3))';" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none';" />
 </p>
 
 ---
@@ -143,12 +143,12 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
 ## 💳 Profile Summary & Productive Time
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurr-i&theme=tokyonight&utcOffset=8" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurr-i&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurveeer&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurveeer&theme=2077" />
 </p>
 
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=gurr-i&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=gurveeer&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
 <!-- ✨ Divider -->
@@ -156,7 +156,7 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurr-i&theme=aura_dark) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurveeer&theme=aura_dark) -->
 
 <!-- =============================== -->
 <!-- 📌 Pinned GitHub Repositories -->
@@ -165,11 +165,11 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
 ## 🚀 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/gurr-i/TG-DL-BOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurr-i&repo=TG-DL-BOT&theme=tokyonight" />
+  <a href="https://github.com/gurveeer/TG-DL-BOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurveeer&repo=TG-DL-BOT&theme=tokyonight" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.08) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 25px rgba(0, 245, 212, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
   </a>
-  <a href="https://github.com/gurr-i/H-M-Online--Fashion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurr-i&repo=H-M-Online--Fashion&theme=tokyonight" />
+  <a href="https://github.com/gurveeer/H-M-Online--Fashion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurveeer&repo=H-M-Online--Fashion&theme=tokyonight" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.08) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 25px rgba(255, 0, 245, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
   </a>
 </p>
 
@@ -198,7 +198,7 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
 
 ## 📅 Contribution Graph
 
-[![Gurveer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurr-i&theme=dracula&hide_border=true)](https://github.com/gurr-i/github-readme-activity-graph)
+[![Gurveer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurveeer&theme=dracula&hide_border=true)](https://github.com/gurveeer/github-readme-activity-graph)
 
 ---
 
@@ -209,7 +209,7 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurr-i&theme=tokyonight&no-frame=false&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gurveeer&theme=tokyonight&no-frame=false&margin-w=10" />
 </p>
 
 <!-- ✨ Divider -->
@@ -224,7 +224,7 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
 ## 🌀 Working Mode Activated
 
 <p align="center">
-  <img src="./assets/animated.gif" align="center" width="90%" />
+  <img src="./assets/animated.gif" align="center" width="90%" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05) rotate(2deg)'; this.style.filter='drop-shadow(0 10px 30px rgba(0, 245, 212, 0.5)) brightness(1.1)';" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none';" />
 </p>
 
 <!-- ✨ Divider -->
@@ -256,22 +256,22 @@ I'm a Full-Stack Developer with a passion for building scalable web applications
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gurveeer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-2px)'; this.style.filter='drop-shadow(0 5px 15px rgba(10, 102, 194, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
   </a>
   <a href="mailto:singh5134957@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-2px)'; this.style.filter='drop-shadow(0 5px 15px rgba(209, 72, 54, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
   </a>
-  <a href="https://twitter.com/gurr-i" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/gurveeer" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-2px)'; this.style.filter='drop-shadow(0 5px 15px rgba(0, 0, 0, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
   </a>
-  <a href="https://github.com/gurr-i" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/gurveeer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-2px)'; this.style.filter='drop-shadow(0 5px 15px rgba(24, 23, 23, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
   </a>
-  <a href="https://gurr-i.github.io/new-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://gurveeer.github.io/new-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-2px)'; this.style.filter='drop-shadow(0 5px 15px rgba(88, 166, 255, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
   </a>
-  <a href="https://www.youtube.com/@gurr-i" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/@gurveeer" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-2px)'; this.style.filter='drop-shadow(0 5px 15px rgba(255, 0, 0, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
   </a>
 </p>
 

@@ -6,7 +6,7 @@ const themes = require("./src/theme")
 
 nunjucks.configure({ autoescape: true })
 
-let templateString = fs.readFileSync("template.svg", 'utf-8')
+let templateString = fs.readFileSync("template_enhanced.svg", 'utf-8')
 
 let username = process.argv[2]
 let req_theme = process.argv[3] || "random"
